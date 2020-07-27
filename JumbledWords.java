@@ -25,8 +25,8 @@ public class JumbledWords {
 	
 
 	public static void main(String[] args) {
-		JumbledWords("Wipro Technologies Bangalore", 1);
-		JumbledWords("Wipro Technologies Bangalore ", 2);
+		JumbledWords("Wipro Technologies Bangalore", 1);  //output: Wpori Tcnlgesioohe Bnaoerlga
+		JumbledWords("Wipro Technologies Bangalore ", 2); // output: Wpoir Tcnlgeehoois Bnaoeaglr
 	}
 
 }
